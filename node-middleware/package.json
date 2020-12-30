@@ -1,0 +1,20 @@
+{
+  "name": "node_middleware_and_more",
+  "version": "0.0.1",
+  "description": "middleware, templating, project structure",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "middleware",
+    "auth",
+    "template"
+  ],
+  "author": "shohanur rahaman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
